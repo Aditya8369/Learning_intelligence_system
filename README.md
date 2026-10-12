@@ -4,6 +4,8 @@
 
 The Personalized Learning Intelligence System (PLIS) aims to make studying more focused, personalized, and effective by understanding what a student knows, identifying knowledge gaps, and recommending what they should learn next.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fd3f4eac-6191-4cce-b91c-4e25376c57a3" />
+
 Unlike a standalone AI chatbot, the system combines learner modeling, personalized recommendations, course-grounded AI tutoring, assessments, and progress analytics into one continuous learning experience.
 
 > **Our goal:** Build a system that doesn't just answer students' questions, but helps them understand what to learn next, why they need to learn it, and whether their understanding is improving.
