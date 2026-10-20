@@ -11,3 +11,9 @@ venv/
 
 # Local configuration
 .DS_Store
+
+# Frontend dependencies and caches
+node_modules/
+.pnpm-store/
+frontend/.pnpm-store/
+dist/
